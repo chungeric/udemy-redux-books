@@ -1,25 +1,12 @@
-# ReduxSimpleStarter
+# React-Redux Book Details App
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Practice Using React with Redux to store and manipulate application state using Containers, Actions & ActionCreators, Dispatching and Reducers. A Practice Project using React with Redux from the Modern React with Redux Course by Stephen Grider on Udemy.com.
 
 ### Getting Started
 
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
+> git clone https://github.com/chungeric/udemy-redux-books.git
+> cd udemy-redux-books
 > npm install
 > npm start
 ```
